@@ -2,6 +2,7 @@
 2020/03/11
 
 This repository is a python code to develop M5StickV camera for interval capturing images.
+The development is for IoT device research purpose.
 
 Function: Button for select date and time manually
 Use in: Kochi prefecture farm
@@ -22,7 +23,6 @@ Usage Instruction.
 
 	- After finish input, you can start capturing by clicking A button
 
-or 
 
 2. Click Button A to start interval capturing image (every 10 minutes).
 	- Wait 10 seconds after clicking
